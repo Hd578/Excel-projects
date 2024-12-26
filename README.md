@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] & _[Months]https://github.com/Hd578/Excel-projects/blob/main/P%26L%20Statement%20by%20Months.pdf
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/Hd578/Excel-projects/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf & _[Months]https://github.com/Hd578/Excel-projects/blob/main/P%26L%20Statement%20by%20Months.pdf
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets]https://github.com/Hd578/Excel-projects/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
